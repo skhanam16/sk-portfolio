@@ -1131,3 +1131,9 @@ Products Page
   grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   gap: 3rem 1rem;
 }
+
+
+/* timeline */
+.job-timeline{
+  font-size:1.5rem;
+}
